@@ -49,30 +49,6 @@ footer
     box-shadow: 0 0 10px 4px black;
 }
 
-.hide {display: none;}
-
-#success-button 
-{
-    background-color: #4CAF50;
-    border-radius: 4px;
-    color: white;
-    padding: 8px 12px;
-    text-align: center;
-    font-size: 16px;
-    border: 2px solid #4CAF50;
-
-}
-
-#fail-button 
-{
-    background-color: #f44336;
-    border-radius: 4px;
-    color: white;
-    padding: 8px 12px;
-    text-align: center;
-    font-size: 16px;
-    border: 2px solid #f44336;
-}
 
 h3
 {
@@ -93,7 +69,3 @@ hr
     width:80%;
 }
 
-.navbar-nav ul li.active a{
-    text-decoration:none;
-    color:#fff;
-}
