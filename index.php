@@ -23,8 +23,8 @@
     ?>
         
     <header class="jumbotron text-center">
-        <h1 class="display-4">Welcome to World of Pets!</h1>
-        <h2>Home of Singapore's Pet Lovers</h2>
+        <h1 class="display-4">Welcome to Up the Cakes!</h1>
+        <h2>Home of The Best Cheesecakes</h2>
     </header>
        
         <main class="container">
@@ -36,7 +36,7 @@
                         <figure>
                             <img class="img-thumbnail popup" src="images/poodle_small.jpg" alt="Image"
                             title="View larger image...">
-                            <figcaption>Standard Poodle</figcaption>
+                        <figcaption>Poodle</figcaption>
                         </figure>
                         <p>
                             Poodles are a group of formal dog breeds, the Standard

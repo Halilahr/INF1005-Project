@@ -5,7 +5,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 -->
 <html>
     <head>
-        <title>Register Member</title>
+        <title>Product Catalogue</title>
         <?php
         include "head.inc.php";
         ?>
@@ -20,7 +20,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             include "nav.inc.php";
         ?>
         <main class="container">
-            <h1>Member Registration</h1>
+                        <h1>Member Registration</h1>
             <p>
                 For existing members, please go to the
                 <a href="#">Sign In page</a>.

@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <a href="index.php">
-            <img class="logo" src="images/logo.png" alt="logo"
-            width="40" height="40">
+            <img class="logo" src="images/logo.jpg" alt="logo"
+            width="50" height="50">
         </a>
         
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,9 +20,13 @@
                 <li class="nav-item">
                     <a class="nav-link" href="index.php#cats">Cats</a>
                 </li>
+                <a href="product_catalogue.php">
+                    <a class="nav-link" href="product_catalogue.php#cheesecakes">Cheesecakes</a>
+                </li>
             </ul>
             
             <ul class="nav test">
+                
                 <li>
                     <a href="register.php">
                     <img class="user" src="images/user.png" alt="user logo"
