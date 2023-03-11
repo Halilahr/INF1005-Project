@@ -43,23 +43,26 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             
                 <body>
                     <section class ="hero-category mt-3 mb-4">
-                    <h2>Product Catalog</h2><section class ="hero-category mt-3 mb-4">
+                    <h2>Product Catalogue</h2><section class ="hero-category mt-3 mb-4">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm">
-                                <img src="images/Classic.jpg" alt="Product 1"
+                                    
+                                <img src="images/Classic.jpg" alt="Product 1" a href="classic_cheesecake.php"
                              width="150"
                              height="150">
                         
-                                <h2>Basque Cheesecake</h2>
+                                <h2><a href="classic_cheesecake.php">Basque Cheesecake</a></h2>
+                                
                                 <p>This is our Classic Basque Cheesecake. </p>
                                 <p class="price">$60.00</p>
                                 </div>
                                 <div class="col-sm">
                                 <img src="images/red_velvet.jpg" alt="Product 2" 
                                      width="150"
-                                     height="150">
-                                <h2>Red Velvety Cheesecake</h2>
+                                     height="150"
+                                     >
+                                <h2><a href="red_velvet_cheesecake.php">Red Velvety Cheesecake</a></h2>
                                 <p>This is our Red Velvet Cheesecake. </p>
                                 <p class="price">$60.00</p>
                                 </div>
@@ -67,7 +70,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <img src="images/chocolate.jpg" alt="Product 3" 
                                      width="150"
                                      height="150">
-                                <h2>Milo Dinosaur Cheesecake</h2>
+                                <h2><a href="milo_dinosaur_cheesecake.php">Milo Dinosaur Cheesecake</a></h2>
                                 <p>This is our Special Milo Dinosaur Cheesecake.</p>
                                 <p class="price">$60.00</p>
                                 </div>
@@ -76,7 +79,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <img src="images/strawberry.jpg" alt="Product 4"
                                      width="150"
                                      height="150">                                     
-                                <h2>Fresh Strawbery Cheesecake</h2>
+                                <h2><a href="strawberry_cheesecake.php">Fresh Strawbery Cheesecake</a></h2>
                                 <p>This is our Strawberry Cheesecake. </p>
                                 <p class="price">$60.00</p>
                                 </div>
@@ -84,7 +87,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                     <img src="images/oreo.jpg" alt="Product 5"
                                          width="150"
                                          height="150">
-                                    <h2>Cookies & Cream</h2>
+                                    <h2><a href="oreo_cheesecake.php">Cookies & Cream</a></h2>
                                     <p>This is our Oreo Cheesecake.</p>
                                     <p class="price">$60.00</p>
                                 </div>                              
@@ -92,7 +95,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <img src="images/tiramisu.jpg" alt="Product 6"
                                      width="150"
                                      height="150">
-                                <h2>Tiramisu Cheesecake</h2>
+                                <h2><a href="tiramisu_cheesecake.php">Tiramisu Cheesecake</a></h2>
                                 <p>This is our Tiramisu Cheesecake.</p>
                                 <p class="price">$60.00</p>
                                 </div>
