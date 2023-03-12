@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+<nav class="navbar navbar-expand-sm ">
         <a href="index.php">
             <img class="logo" src="images/logo.jpg" alt="logo"
             width="50" height="50">
@@ -10,36 +10,31 @@
     
         
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Home</a>
+                    <a class="nav-link" href="index.php">HOME</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="index.php#dogs">Dogs</a>
+                <a class="nav-link" href="">ABOUT US</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="index.php#cats">Cats</a>
-                </li>
-                <a href="product_catalogue.php">
-                    <a class="nav-link" href="product_catalogue.php#cheesecakes">Cheesecakes</a>
+                    <a class="nav-link" href="product_catalogue.php">CHEESECAKES</a>
                 </li>
             </ul>
             
-            <ul class="nav test">
-                
-                <li>
+            <ul class="navbar-nav ml-auto mt-2 ">
+                <li class="nav-item">
                     <a href="register.php">
-                    <img class="user" src="images/user.png" alt="user logo"
-                    width="40" height="40">
+                    <button class="login_signup_button" type="button">Login / Sign Up</button>
                     </a> 
                 </li>
-                <li>
-                    <a href="">
-                    <img class="login" src="images/account-login-48.png" alt="login logo"
-                    width="30" height="40">
+                <li class="nav-item">
+                    <a href="shoppingCart.php#shoppingCart">
+                    <img class="cart_image" src="images/main_page/cart.png" alt="cart logo"
+                    width=30" height="30">
                     </a> 
                 </li>
             </ul>
+            
         </div>
     
 </nav>    

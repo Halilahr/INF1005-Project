@@ -42,8 +42,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
             </section>
             
                 <body>
-                    <section class ="hero-category mt-3 mb-4">
-                    <h2>Product Catalog</h2><section class ="hero-category mt-3 mb-4">
+                    <section id="product_catalogue" class ="hero-category mt-3 mb-4">
+                    <h2>Product Catalog</h2>
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm">
@@ -97,6 +97,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                                 <p class="price">$60.00</p>
                                 </div>
                             </div>
+                        </section>
             </form>
         </main>
             <?php

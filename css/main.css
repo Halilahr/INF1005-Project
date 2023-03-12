@@ -1,78 +1,107 @@
-/*
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
-*/
-/* 
-    Created on : 10 Jan 2023, 3:25:16 pm
-    Author     : Halilah
-*/
 
-section h2 
+h2.pink-text
 {
-  text-decoration-line: underline;
+    color: #FF69B4;
+}
+/*-------------------- Navigation ----------------*/
+.nav-link
+{
+    color: black;
 }
 
-figure
+.login_signup_button
 {
-    display: inline-block; 
+    background-color: #FF69B4;
+    border-color: black;
+    border-radius: 15px;
+}
+/*-------------------- Best seller section ----------------*/
+.best_seller_header
+{
+    padding-top : 10px;
+    padding-bottom : 20px;
 }
 
-figure img
+.best_seller_image
 {
-    border-style: double;
-    border-color: darkgray;
-    border-width: 4px;
+    float: left;
+    text-align: right;
+    width: 300px;
+    height: 300px;
 }
 
-figcaption
+#best_seller_content
+{
+    margin-left: 330px; 
+    margin-bottom: 10px;
+}
+/*-------------------- Why choose us section ----------------*/
+.why_choose_us
+{
+    padding-top: 10px;
+    text-align: center;
+}
+/*-------------------- Blast freeze section ----------------*/
+.technology_image
+{
+    float: right;
+    text-align: left;
+    width: 400px;
+    height: 300px;
+}
+
+#technology_content
+{
+    padding: 80px;
+    margin-right: 500px;
+}
+
+.find_out_more_button
+{
+    background-color: #FF69B4;
+    border-color: black;
+    border-radius: 15px;
+}
+/*-------------------- As seen on section ----------------*/
+.As_seen_on img
+{
+    width: 100px;
+    height: 50px;
+}
+
+.As_seen_on
+{
+    padding-bottom: 40px;
+    text-align: center;
+}
+/*-------------------- Reviews and testimonial section ----------------*/
+.reviews_testimonial img
+{
+    width: 130px;
+    height: 50px;
+}
+/*-------------------- Product catalogue section ----------------*/
+#product_catalogue
 {
     text-align: center;
-    color: grey;
-    font-style: italic;
 }
 
-footer
+/*-------------------- Footer section ----------------*/
+footer p
 {
     border-top: solid darkgray;
     text-align: center;
     font-style: italic;
-    font-size: 13px
-        
-        
+    font-size: 13px; 
 }
 
-#popup-img
+footer li a
 {
-    width: 100%;
-    border-style: double;
-    border-color: darkgray;
-    border-width: 5px;
-    border-radius: 2px;
-    box-shadow: 0 0 10px 4px black;
-}
-
-
-h3
-{
-    font-size: 32px;
     color: black;
 }
 
-
-h4
+#footer_banner
 {
-    font-size: 24px;
-    color: black;
+    background-color: #FF69B4;
+    padding-top: 20px;
 }
-
-hr
-{
-    border-top: 1px solid grey;
-    width:80%;
-}
-
-section
-{
-    text-align: center;
-}
-
