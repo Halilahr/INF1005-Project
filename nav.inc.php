@@ -27,6 +27,8 @@
 
             <ul class="nav test">
                 
+                <a href="shoppingCart.php">
+                    <a class="nav-link" href="shoppingCart.php#shoppingCart">Cart</a>
                 <li>
                     <a href="register.php">
                     <button class="login_signup_button" type="button">Login / Sign Up</button>
