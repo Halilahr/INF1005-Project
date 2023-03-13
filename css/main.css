@@ -80,6 +80,48 @@ h2.pink-text
     width: 130px;
     height: 50px;
 }
+
+.reviews_testimonial
+{
+    padding-bottom: 10px;
+}
+
+/*-------------------- About us section ----------------*/
+#about_us_content
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+article.shift_left img
+{
+    float: left;
+    text-align: right;
+    width: 400px;
+    height: 300px;
+}
+
+.content-padding-right
+{
+    padding: 40px;
+    margin-right: 400px;
+}
+
+.content-padding-left
+{
+    padding: 40px;
+    margin-left: 400px;
+}
+
+article.shift_right img
+{
+    float: right;
+    text-align: left;
+    width: 400px;
+    height: 300px;
+}
+
 /*-------------------- Product catalogue section ----------------*/
 #product_catalogue
 {
@@ -88,9 +130,15 @@ h2.pink-text
 }
 
 /*-------------------- Footer section ----------------*/
+footer
+{
+    border-top: solid #FF69B4;
+    padding-top: 10px;
+    border-top: solid #FF69B4;
+}
+
 footer p
 {
-    border-top: solid darkgray;
     text-align: center;
     font-style: italic;
     font-size: 13px; 
@@ -101,8 +149,12 @@ footer li a
     color: black;
 }
 
+#footer_navigation
+{
+    padding-top: 20px;
+}
+
 #footer_banner
 {
-    background-color: #FF69B4;
-    padding-top: 20px;
+    background-color: #FF69B4; 
 }

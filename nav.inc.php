@@ -15,8 +15,10 @@
                 <li class="nav-item">
                     <a class="nav-link" href="index.php">HOME</a>
                 </li>
-                <a class="nav-link" href="">ABOUT US</a>
+                <li class="nav-item">
+                <a class="nav-link" href="about_us.php">ABOUT US</a>
                 </li>
+                <li class="nav-item">
                     <a class="nav-link" href="product_catalogue.php">CHEESECAKES</a>
                 </li>
             </ul>
@@ -26,9 +28,6 @@
                 <li class="nav-item">
 
             <ul class="nav test">
-                
-                <a href="shoppingCart.php">
-                    <a class="nav-link" href="shoppingCart.php#shoppingCart">Cart</a>
                 <li>
                     <a href="register.php">
                     <button class="login_signup_button" type="button">Login / Sign Up</button>
