@@ -3,6 +3,11 @@ h2.pink-text
 {
     color: #FF69B4;
 }
+
+h2.black-text
+{
+    color: black;
+}
 /*-------------------- Navigation ----------------*/
 .nav-link
 {
@@ -123,7 +128,7 @@ article.shift_right img
 }
 
 /*-------------------- Product catalogue section ----------------*/
-#product_catalogue
+#product_catalogue h2 a
 {
     text-align: center;
     color: black;

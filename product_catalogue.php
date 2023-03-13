@@ -15,12 +15,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
         include "link.inc.php";
     ?>
     
-    <body>
-        <?php
-            include "nav.inc.php";
-        ?>
+    <?php
+        include "nav.inc.php";
+    ?>
        
-            
+    <body>        
             <section class="hero-category mt-3 mb-4">
                 <div class="container">
                     <div class="text-center">
@@ -41,70 +40,71 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
                 </div>
             </section>
             
-                <body>
-                    <section id="product_catalogue" class ="hero-category mt-3 mb-4">
-                    <h2>Product Catalog</h2>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm">
-                                    
-                                <img src="images/Classic.jpg" alt="Product 1" a href="classic_cheesecake.php"
-                             width="150"
-                             height="150">
-                        
-                                <h2><a href="classic_cheesecake.php">Basque Cheesecake</a></h2>
-                                
-                                <p>This is our Classic Basque Cheesecake. </p>
-                                <p class="price">$60.00</p>
-                                </div>
-                                <div class="col-sm">
-                                <img src="images/red_velvet.jpg" alt="Product 2" 
-                                     width="150"
-                                     height="150"
-                                     >
-                                <h2><a href="red_velvet_cheesecake.php">Red Velvety Cheesecake</a></h2>
-                                <p>This is our Red Velvet Cheesecake. </p>
-                                <p class="price">$60.00</p>
-                                </div>
-                                <div class="col-sm">
-                                <img src="images/chocolate.jpg" alt="Product 3" 
-                                     width="150"
-                                     height="150">
-                                <h2><a href="milo_dinosaur_cheesecake.php">Milo Dinosaur Cheesecake</a></h2>
-                                <p>This is our Special Milo Dinosaur Cheesecake.</p>
-                                <p class="price">$60.00</p>
-                                </div>
-                                <div class="w-100"></div>
-                                <div class="col-sm">
-                                <img src="images/strawberry.jpg" alt="Product 4"
-                                     width="150"
-                                     height="150">                                     
-                                <h2><a href="strawberry_cheesecake.php">Fresh Strawbery Cheesecake</a></h2>
-                                <p>This is our Strawberry Cheesecake. </p>
-                                <p class="price">$60.00</p>
-                                </div>
-                                <div class="col-sm">
-                                    <img src="images/oreo.jpg" alt="Product 5"
-                                         width="150"
-                                         height="150">
-                                    <h2><a href="oreo_cheesecake.php">Cookies & Cream</a></h2>
-                                    <p>This is our Oreo Cheesecake.</p>
-                                    <p class="price">$60.00</p>
-                                </div>                              
-                                <div class="col-sm">
-                                <img src="images/tiramisu.jpg" alt="Product 6"
-                                     width="150"
-                                     height="150">
-                                <h2><a href="tiramisu_cheesecake.php">Tiramisu Cheesecake</a></h2>
-                                <p>This is our Tiramisu Cheesecake.</p>
-                                <p class="price">$60.00</p>
-                                </div>
+            <section id="product_catalogue" class ="text-center">
+                <h2>Product Catalog</h2>
+                    <div class="container">
+                        <div class="row">
+                            
+                            <div class="col-sm">
+                            <img src="images/Classic.jpg" alt="Product 1" a href="classic_cheesecake.php"
+                                 width="150"
+                                 height="150">
+                            <h2><a href="classic_cheesecake.php">Basque Cheesecake</a></h2>
+                            <p>This is our Classic Basque Cheesecake. </p>
+                            <p class="price">$60.00</p>
                             </div>
-                        </section>
-            </form>
-        </main>
-            <?php
-                include "footer.inc.php";
-            ?>
+
+                            <div class="col-sm">
+                            <img src="images/red_velvet.jpg" alt="Product 2" 
+                                 width="150"
+                                 height="150">
+                            <h2><a href="red_velvet_cheesecake.php">Red Velvety Cheesecake</a></h2>
+                            <p>This is our Red Velvet Cheesecake. </p>
+                            <p class="price">$60.00</p>
+                            </div>
+
+                            <div class="col-sm">
+                            <img src="images/chocolate.jpg" alt="Product 3" 
+                                 width="150"
+                                 height="150">
+                            <h2><a href="milo_dinosaur_cheesecake.php">Milo Dinosaur Cheesecake</a></h2>
+                            <p>This is our Special Milo Dinosaur Cheesecake.</p>
+                            <p class="price">$60.00</p>
+                            </div>
+
+                            <div class="w-100"></div>
+                            <div class="col-sm">
+                            <img src="images/strawberry.jpg" alt="Product 4"
+                                 width="150"
+                                 height="150">                                     
+                            <h2><a href="strawberry_cheesecake.php">Fresh Strawbery Cheesecake</a></h2>
+                            <p>This is our Strawberry Cheesecake. </p>
+                            <p class="price">$60.00</p>
+                            </div>
+
+                            <div class="col-sm">
+                                <img src="images/oreo.jpg" alt="Product 5"
+                                     width="150"
+                                     height="150">
+                                <h2><a href="oreo_cheesecake.php">Cookies & Cream</a></h2>
+                                <p>This is our Oreo Cheesecake.</p>
+                                <p class="price">$60.00</p>
+                            </div>  
+
+                            <div class="col-sm">
+                            <img src="images/tiramisu.jpg" alt="Product 6"
+                                 width="150"
+                                 height="150">
+                            <h2><a href="tiramisu_cheesecake.php">Tiramisu Cheesecake</a></h2>
+                            <p>This is our Tiramisu Cheesecake.</p>
+                            <p class="price">$60.00</p>
+                            </div>
+
+                        </div>
+                    </div>
+            </section>
+        <?php
+            include "footer.inc.php";
+        ?>
     </body>
 </html>
