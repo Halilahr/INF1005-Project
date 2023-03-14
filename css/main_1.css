@@ -46,6 +46,10 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     align-items: center;
 }
 
+.details .btn{
+    text-decoration: none;
+}
+
 .details h1{
     color: #333;
     font-size: 35px;
