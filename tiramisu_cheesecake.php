@@ -33,7 +33,7 @@
                         <span class="fa fa-star checked"></span>
                         <span class="fa fa-star checked"></span>
                         <span class="fa fa-star checked"></span>
-                        <span class="fa fa-star-half-full"></span>
+                        <span class="fa fa-star"></span>
                         <span class="fa fa-star"></span>
                         <span>(9 reviews)</span>
                     </div>
