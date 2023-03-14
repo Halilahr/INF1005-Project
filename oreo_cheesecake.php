@@ -28,7 +28,7 @@
         <div class="small-container single-cake">
             <div class="row">
                 <div class="col-2">
-                    <p>Home / Cakes / Oreo Cheesecake</p>
+                    <p>Home / Cheesecakes / Oreo Cheesecake</p>
                     <img src="images/oreo.jpg" alt="Oreo Cheesecake">
                 </div>
                 

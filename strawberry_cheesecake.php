@@ -28,7 +28,7 @@
         <div class="small-container single-cake">
             <div class="row">
                 <div class="col-2">
-                    <p>Home / Cakes / Fresh Strawberry Cheesecake</p>
+                    <p>Home / Cheesecakes / Fresh Strawberry Cheesecake</p>
                     <img src="images/strawberry.jpg" alt="Fresh Strawberry Cheesecak">
                 </div>
                 

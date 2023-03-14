@@ -27,7 +27,7 @@
         <div class="small-container single-cake">
             <div class="row">
                 <div class="col-2">
-                    <p>Home / Cakes / Red Velvety Cheesecake</p>
+                    <p>Home / Cheesecakes / Red Velvety Cheesecake</p>
                     <img src="images/red_velvet.jpg" alt="Red Velvety Cheesecake">
                 </div>
                 

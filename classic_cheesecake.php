@@ -25,7 +25,7 @@
         <div class="small-container single-cake">
             <div class="row">
                 <div class="col-2">
-                    <p>Home / Cakes / Classic Basque Cheesecake</p>
+                    <p>Home / Cheesecakes / Classic Basque Cheesecake</p>
                     <img src="images/Classic.jpg" alt="Classic Cheesecake">
                 </div>
                 

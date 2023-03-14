@@ -27,7 +27,7 @@
         <div class="small-container single-cake">
             <div class="row">
                 <div class="col-2">
-                    <p>Home / Cakes / Special Milo Dinosaur Cheesecake</p>
+                    <p>Home / Cheesecakes / Special Milo Dinosaur Cheesecake</p>
                     <img src="images/chocolate.jpg" alt="Special Milo Dinosaur Cheesecake">
                 </div>
                 
